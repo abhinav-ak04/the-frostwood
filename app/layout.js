@@ -10,8 +10,8 @@ import { ReservationProvider } from "./_components/ReservationContext";
 
 export const metadata = {
   title: {
-    template: "%s / The Wild Oasis",
-    default: "Welcome / The Wild Oasis",
+    template: "%s / The Frostwood",
+    default: "Welcome / The Frostwood",
   },
   description:
     "Luxurious cabin hotel, located in the heart of the Italian Dolomites, surrounded by beautiful mountains and dark forests",
